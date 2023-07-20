@@ -1,0 +1,28 @@
+.flowers-container{
+    background-color: rgb(202, 255, 199);
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    background-color: rgb(180, 237, 158);
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+}
+
+.card-element {
+    padding: 10px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .title {
+    font-weight: bold;
+  }
